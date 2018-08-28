@@ -9,7 +9,7 @@ The url of this book in Chinese: https://item.jd.com/12408095.html
 
 ### Part 1: Basic Knowledge ###
 
-  * Chapter 1: Plugable from Past to Future(https://www.cnblogs.com/Jax/p/9547734.html)
+  * [Chapter 1: Plugable from Past to Future](https://www.cnblogs.com/Jax/p/9547734.html)
     * [1.1 What is the plug-in？](https://www.cnblogs.com/Jax/p/9549311.html)
     * [1.2 Why need pluggable?](https://www.cnblogs.com/Jax/p/9549320.html)
     * [1.3 Android Plug-in History](https://www.cnblogs.com/Jax/p/9549341.html)
