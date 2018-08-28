@@ -5,20 +5,16 @@
 The url of Chinese book: https://item.jd.com/12408095.html
 
 
-##Context
--------
+## Context ##
 
-###Part 1: Basic Knowledge
+### Part 1: Basic Knowledge ###
 
->####Chapter 1: Plugable from Past to Future(http://en.wikipedia.org/wiki/Markdown)
 
->####Chapter 2: In-depth Knowledge of Android
-
->####Chapter 3: Reflection
-
->####Chapter 4: Proxy pattern
-
->####Chapter 5: Hook startActivity
+  * Chapter 1: Plugable from Past to Future(http://en.wikipedia.org/wiki/Markdown)
+  * Chapter 2: In-depth Knowledge of Android
+  * Chapter 3: Reflection
+  * Chapter 4: Proxy pattern
+  * Chapter 5: Hook startActivity
 
 -------
 
