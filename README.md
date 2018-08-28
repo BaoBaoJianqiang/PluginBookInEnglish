@@ -2,7 +2,7 @@
 
 ![cover](https://img10.360buyimg.com/n1/s200x200_jfs/t25717/130/277544800/77121/dfab18dd/5b6aaf4eNf244aca8.jpg)
 
-The url of Chinese book: https://item.jd.com/12408095.html
+The url of this book in Chinese: https://item.jd.com/12408095.html
 
 
 ## Context ##
