@@ -10,6 +10,17 @@ The url of Chinese book: https://item.jd.com/12408095.html
 ### Part 1: Basic Knowledge ###
 
   * [Chapter 1: Plugable from Past to Future](http://en.wikipedia.org/wiki/Markdown)
+    * [1.1 What is the plug-in？](http://en.wikipedia.org/wiki/Markdown)
+    * [1.2 Why need pluggable?](http://en.wikipedia.org/wiki/Markdown)
+    * [1.3 Android Plug-in History](http://en.wikipedia.org/wiki/Markdown)
+    * [1.4 The usage of plugability](http://en.wikipedia.org/wiki/Markdown)
+    * [1.5 React Native, A better alternative](http://en.wikipedia.org/wiki/Markdown)
+    * [1.6 Why only in China?](http://en.wikipedia.org/wiki/Markdown)
+    * [1.7 All components require plug-in?](http://en.wikipedia.org/wiki/Markdown)
+    * [1.8 Double-Opening and Virtual Machine](http://en.wikipedia.org/wiki/Markdown)
+    * [1.9 From Native to HTML5](http://en.wikipedia.org/wiki/Markdown)
+    * [1.10 Summary](http://en.wikipedia.org/wiki/Markdown)
+
   * Chapter 2: In-depth Knowledge of Android
     * 2.1 [AAA](http://en.wikipedia.org/wiki/Markdown)
       * 2.1.1 [BBB](http://en.wikipedia.org/wiki/Markdown)
